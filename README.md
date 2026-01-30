@@ -76,15 +76,14 @@ The repository is organized to support both real-time application and deep acade
 * **[assets](assets/)**: [▶ Click here to play the Demo Video](assets/els_pulse_ensemble_audit_full_demo.mp4) and view diagnostic screenshots.
 * **[Project development](Project_development/)**: Core application (`app.py`), development notebook (`sentiment analysis.ipynb`), and training datasets.
 * **[models](Project_development/models/)**: Serialized `.pkl` files for all classifiers and the TF-IDF vectorizer.
-* **Project Summary**: [SENTIMENT ANALYSIS FOR BRAND MONITORING AND COMPETITOR ANALYSIS.pdf](Project_Summary/SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf)
-* **Research thesis**: [PROJECT REPORT - SENTIMENT ANALYSIS FOR BRAND MONITORING AND COMPETITOR ANALYSIS.pdf](Research_thesis/PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf)
-* **Research papers (Academic Reference Library)**: 
-    * [Artificial Intelligence and Sentiment Analysis A Review.pdf](Research_papers/Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf)
-    * [Comparative Analysis of Machine Learning.pdf](Research_papers/Comparative_Analysis_of_Machine_Learning.pdf)
-    * [Sentiment analysis and social media analytics in brand management.pdf](Research_papers/Sentiment_analysis_and_social_media_analytics_in_brand_management_Techniques_Trends_and_Implications.pdf)
-    * [Social Media Sentiment Analysis for Brand Reputation management.pdf](Research_papers/Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf)
-    * [social-media-sentiment-analysis-for-brand-monitoring.pdf](Research_papers/social-media-sentiment-analysis-for-brand-monitoring-IJERTV13IS100134.pdf)
-
+* **Project_Summary**: [SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf](./Project_Summary/SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf)
+* **Research_thesis**: [PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf](./Research_thesis/PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf)
+* **Research_papers (Academic Reference Library)**: 
+    * [Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf](./Research_papers/Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf)
+    * [Comparative_Analysis_of_Machine_Learning.pdf](./Research_papers/Comparative_Analysis_of_Machine_Learning.pdf)
+    * [Sentiment_analysis_and_social_media_analytics_in_brand_management.pdf](./Research_papers/Sentiment_analysis_and_social_media_analytics_in_brand_management_Techniques_Trends_and_Implications.pdf)
+    * [Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf](./Research_papers/Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf)
+    * [social_media_sentiment_analysis_for_brand_monitoring_IJERTV13IS100134.pdf](./Research_papers/social_media_sentiment_analysis_for_brand_monitoring_IJERTV13IS100134.pdf)
 ---
 
 ## Installation & Usage
