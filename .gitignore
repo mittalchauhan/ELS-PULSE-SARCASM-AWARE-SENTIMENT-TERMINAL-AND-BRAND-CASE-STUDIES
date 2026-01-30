@@ -1,0 +1,24 @@
+# --- Datasets (Large Files) ---
+# Ignoring the 1.6M row dataset due to size constraints
+training.1600000.processed.noemoticon.csv
+Project development/training.1600000.processed.noemoticon.csv
+*.csv
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- Operating System Junk ---
+.DS_Store
+Thumbs.db
+
+# --- Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Model Artifacts (Optional) ---
+# Only uncomment the line below if you do NOT want to push your .pkl files
+# models/*.pkl
