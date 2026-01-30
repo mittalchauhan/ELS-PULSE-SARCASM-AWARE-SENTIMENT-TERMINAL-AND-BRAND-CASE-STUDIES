@@ -1,25 +1,20 @@
-# ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES
+## ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES
 
-## Live System Walkthrough
-<div align="center">
-  <video src="assets/els_pulse_ensemble_audit_full_demo.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <em>If the video above does not play, <strong>[Click Here to View the Demo Video](assets/els_pulse_ensemble_audit_full_demo.mp4)</strong></em>
-</div>
----
+### Live System Walkthrough
+[![ELS-Pulse Video Demo](https://img.shields.io/badge/PLAY-DEMO_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white)](assets/els_pulse_ensemble_audit_full_demo.mp4)
 
-## Project Overview
+> **Note:** Click the badge above to play the full system walkthrough. If you are viewing this locally, you can find the file at `assets/els_pulse_ensemble_audit_full_demo.mp4`.
+
+### Project Overview
 **ELS-Pulse** is a professional-grade sentiment diagnostic terminal designed to bridge the gap between raw NLP models and executive-level brand intelligence. By leveraging a **Hybrid Ensemble Engine**, the system cross-validates social media data across multiple classifiers to ensure high-fidelity sentiment auditing. 
 
 This project integrates theoretical foundations from specialized literature with a live **Internal Audit Terminal** for real-time diagnostics and static benchmarks for global industry leaders.
 
 ---
 
-## Core Technical Capabilities
+### Core Technical Capabilities
 
-### 1. Hybrid Ensemble Engine
+#### 1. Hybrid Ensemble Engine
 The system utilizes a **Voting Classifier** that aggregates predictions from multiple models to achieve a peak accuracy of **87.1%**:
 * **TF-IDF Baseline**: 78.2% Accuracy
 * **Logistic Regression**: 84.5% Accuracy
@@ -27,45 +22,45 @@ The system utilizes a **Voting Classifier** that aggregates predictions from mul
 * **SVM Classifier**: 85.6% Accuracy
 * **Voting Ensemble**: 87.1% Accuracy
 
-### 2. Sarcasm-Aware Heuristics
+#### 2. Sarcasm-Aware Heuristics
 To prevent "sentiment flipping," ELS-Pulse implements a rule-based sarcasm detection layer:
 * **Audit Parameters**: Users can manually toggle Integrated Sarcasm Correction.
 * **Decision Threshold**: Adjustable sensitivity for diagnostic data input (Default: 0.67).
 
-### 3. High-Dimensional Vectorization
+#### 3. High-Dimensional Vectorization
 * **Analytical Integrity**: Results are verified against a **5,000-feature TF-IDF vector space**.
 * **Interpretability**: The terminal provides a **Neural Probability Heatmap** and **Feature Significance (TF-IDF)** plots to visualize token weights.
 
 ---
 
-## System Diagnostics Gallery
+### System Diagnostics Gallery
 
-### Performance Auditor
+#### Performance Auditor
 ---
 ![Performance](assets/els_pulse_performance_auditor.png)
 ---
 
-### Diagnostic Data Input
+#### Diagnostic Data Input
 ---
 ![Input](assets/els_pulse_diagnostic_input.png)
 ---
 
-### Neural Probability Heatmap
+#### Neural Probability Heatmap
 ---
 ![Heatmap](assets/els_pulse_neural_heatmap.png)
 ---
 
-### Raw Vector State Audit
+#### Raw Vector State Audit
 ---
 ![Vector](assets/els_pulse_vector_state_audit.png)
 ---
 
-### Brand Monitoring Insights
+#### Brand Monitoring Insights
 ---
 ![Insights](assets/els_pulse_brand_monitoring_insights.png)
 ---
 
-## Strategic Brand Case Studies (Benchmarks)
+### Strategic Brand Case Studies (Benchmarks)
 The system generates cross-validated analytics for global entities based on high loyalty and reliability focus:
 
 | Brand Entity | Sentiment Score | Sentiment Velocity | Strategic Recommendation |
@@ -79,7 +74,7 @@ The system generates cross-validated analytics for global entities based on high
 
 ---
 
-## Project Structure & Academic Foundation
+### Project Structure & Academic Foundation
 The repository is organized to support both real-time application and deep academic research:
 
 * **assets/**: System demo video and diagnostic screenshots.
@@ -96,7 +91,7 @@ The repository is organized to support both real-time application and deep acade
 
 ---
 
-## Installation & Usage
+### Installation & Usage
 
 1.  **Clone the Repository:**
     ```bash
