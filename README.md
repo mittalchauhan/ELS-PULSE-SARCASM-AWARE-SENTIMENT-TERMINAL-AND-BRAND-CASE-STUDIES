@@ -1,10 +1,9 @@
 ## ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES
 
 ### Live System Walkthrough
-[![ELS-Pulse Video Demo](https://img.shields.io/badge/PLAY-DEMO_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white)](assets/els_pulse_ensemble_audit_full_demo.mp4)
+[![Watch the Demo](https://img.shields.io/badge/PLAY-DEMO_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white)](assets/els_pulse_ensemble_audit_full_demo.mp4)
 
-> **Note:** Click the badge above to play the full system walkthrough. If you are viewing this locally, you can find the file at `assets/els_pulse_ensemble_audit_full_demo.mp4`.
-
+> **Tip:** Click the badge above to open and play the walkthrough video.
 ### Project Overview
 **ELS-Pulse** is a professional-grade sentiment diagnostic terminal designed to bridge the gap between raw NLP models and executive-level brand intelligence. By leveraging a **Hybrid Ensemble Engine**, the system cross-validates social media data across multiple classifiers to ensure high-fidelity sentiment auditing. 
 
