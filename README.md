@@ -2,7 +2,11 @@
 
 ## Live System Walkthrough
 <div align="center">
-  <video src="assets/els_pulse_ensemble_audit_full_demo.mp4" width="100%" controls title="ELS-Pulse Demo"></video>
+  <video src="assets/els_pulse_ensemble_audit_full_demo.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <em>If the video above does not play, <strong>[Click Here to View the Demo Video](assets/els_pulse_ensemble_audit_full_demo.mp4)</strong></em>
 </div>
 ---
 
@@ -36,21 +40,29 @@ To prevent "sentiment flipping," ELS-Pulse implements a rule-based sarcasm detec
 
 ## System Diagnostics Gallery
 
-### 1. Performance Auditor
+### Performance Auditor
+---
 ![Performance](assets/els_pulse_performance_auditor.png)
+---
 
-### 2. Diagnostic Data Input
+### Diagnostic Data Input
+---
 ![Input](assets/els_pulse_diagnostic_input.png)
+---
 
-### 3. Neural Probability Heatmap
+### Neural Probability Heatmap
+---
 ![Heatmap](assets/els_pulse_neural_heatmap.png)
+---
 
-### 4. Raw Vector State Audit
+### Raw Vector State Audit
+---
 ![Vector](assets/els_pulse_vector_state_audit.png)
+---
 
-### 5. Brand Monitoring Insights
+### Brand Monitoring Insights
+---
 ![Insights](assets/els_pulse_brand_monitoring_insights.png)
-
 ---
 
 ## Strategic Brand Case Studies (Benchmarks)
