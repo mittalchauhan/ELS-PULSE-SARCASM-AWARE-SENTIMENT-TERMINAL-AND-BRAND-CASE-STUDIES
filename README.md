@@ -1,9 +1,10 @@
-## ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES
+### ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES
 
 ### Live System Walkthrough
 [![Watch the Demo](https://img.shields.io/badge/PLAY-DEMO_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white)](assets/els_pulse_ensemble_audit_full_demo.mp4)
 
 > **Tip:** Click the badge above to open and play the walkthrough video.
+
 ### Project Overview
 **ELS-Pulse** is a professional-grade sentiment diagnostic terminal designed to bridge the gap between raw NLP models and executive-level brand intelligence. By leveraging a **Hybrid Ensemble Engine**, the system cross-validates social media data across multiple classifiers to ensure high-fidelity sentiment auditing. 
 
@@ -13,7 +14,7 @@ This project integrates theoretical foundations from specialized literature with
 
 ### Core Technical Capabilities
 
-#### 1. Hybrid Ensemble Engine
+### 1. Hybrid Ensemble Engine
 The system utilizes a **Voting Classifier** that aggregates predictions from multiple models to achieve a peak accuracy of **87.1%**:
 * **TF-IDF Baseline**: 78.2% Accuracy
 * **Logistic Regression**: 84.5% Accuracy
@@ -21,12 +22,12 @@ The system utilizes a **Voting Classifier** that aggregates predictions from mul
 * **SVM Classifier**: 85.6% Accuracy
 * **Voting Ensemble**: 87.1% Accuracy
 
-#### 2. Sarcasm-Aware Heuristics
+### 2. Sarcasm-Aware Heuristics
 To prevent "sentiment flipping," ELS-Pulse implements a rule-based sarcasm detection layer:
 * **Audit Parameters**: Users can manually toggle Integrated Sarcasm Correction.
 * **Decision Threshold**: Adjustable sensitivity for diagnostic data input (Default: 0.67).
 
-#### 3. High-Dimensional Vectorization
+### 3. High-Dimensional Vectorization
 * **Analytical Integrity**: Results are verified against a **5,000-feature TF-IDF vector space**.
 * **Interpretability**: The terminal provides a **Neural Probability Heatmap** and **Feature Significance (TF-IDF)** plots to visualize token weights.
 
@@ -34,27 +35,27 @@ To prevent "sentiment flipping," ELS-Pulse implements a rule-based sarcasm detec
 
 ### System Diagnostics Gallery
 
-#### Performance Auditor
+### Performance Auditor
 ---
 ![Performance](assets/els_pulse_performance_auditor.png)
 ---
 
-#### Diagnostic Data Input
+### Diagnostic Data Input
 ---
 ![Input](assets/els_pulse_diagnostic_input.png)
 ---
 
-#### Neural Probability Heatmap
+### Neural Probability Heatmap
 ---
 ![Heatmap](assets/els_pulse_neural_heatmap.png)
 ---
 
-#### Raw Vector State Audit
+### Raw Vector State Audit
 ---
 ![Vector](assets/els_pulse_vector_state_audit.png)
 ---
 
-#### Brand Monitoring Insights
+### Brand Monitoring Insights
 ---
 ![Insights](assets/els_pulse_brand_monitoring_insights.png)
 ---
@@ -73,21 +74,20 @@ The system generates cross-validated analytics for global entities based on high
 
 ---
 
-### Project Structure & Academic Foundation
+### 📂 Project Structure & Academic Foundation
 The repository is organized to support both real-time application and deep academic research:
 
-* **assets/**: System demo video and diagnostic screenshots.
-* **Project development/**: Core application (`app.py`), development notebook (`sentiment analysis.ipynb`), and training datasets.
-* **models/**: Serialized `.pkl` files for all classifiers and the TF-IDF vectorizer.
-* **Project Summary/**: Executive overview titled *SENTIMENT ANALYSIS FOR BRAND MONITORING AND COMPETITOR ANALYSIS.pdf*.
-* **Research thesis/**: Comprehensive *PROJECT REPORT - SENTIMENT ANALYSIS FOR BRAND MONITORING AND COMPETITOR ANALYSIS.pdf*.
-* **Research papers (Academic Reference Library)/**: 
-    * *Artificial Intelligence and Sentiment Analysis A Review in.pdf*
-    * *Comparative_Analysis_of_Machine_Learning.pdf*
-    * *Sentiment analysis and social media analytics in brand management Techniques, Trends and Implications.pdf*
-    * *Social Media Sentiment Analysis for Brand Reputation management.pdf*
-    * *social-media-sentiment-analysis-for-brand-monitoring-IJERTV13IS100134.pdf*
-
+* **[assets/](assets/)**: [▶️ Click here to watch the ELS-Pulse Demo Video](https://github.com/mittalchauhan/ELS-PULSE-SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES/raw/main/assets/els_pulse_ensemble_audit_full_demo.mp4) and diagnostic screenshots.
+* **[Project development/](Project%20development/)**: Core application (`app.py`), development notebook (`sentiment analysis.ipynb`), and training datasets.
+* **[models/](Project%20development/models/)**: Serialized `.pkl` files for all classifiers and the TF-IDF vectorizer.
+* **Project Summary**: [📄 SENTIMENT ANALYSIS FOR BRAND MONITORING AND COMPETITOR ANALYSIS.pdf](Project%20Summary/SENTIMENT%20ANALYSIS%20FOR%20BRAND%20MONITORING%20AND%20COMPETITOR%20ANALYSIS.pdf)
+* **Research thesis**: [📄 PROJECT REPORT - SENTIMENT ANALYSIS FOR BRAND MONITORING AND COMPETITOR ANALYSIS.pdf](Research%20thesis/PROJECT%20REPORT%20-%20SENTIMENT%20ANALYSIS%20FOR%20BRAND%20MONITORING%20AND%20COMPETITOR%20ANALYSIS.pdf)
+* **Research papers (Academic Reference Library)**: 
+    * [📑 Artificial Intelligence and Sentiment Analysis A Review in.pdf](Research%20papers/Artificial%20Intelligence%20and%20Sentiment%20Analysis%20A%20Review%20in.pdf)
+    * [📑 Comparative_Analysis_of_Machine_Learning.pdf](Research%20papers/Comparative_Analysis_of_Machine_Learning.pdf)
+    * [📑 Sentiment analysis and social media analytics in brand management.pdf](Research%20papers/Sentiment%20analysis%20and%20social%20media%20analytics%20in%20brand%20management%20Techniques,%20Trends%20and%20Implications.pdf)
+    * [📑 Social Media Sentiment Analysis for Brand Reputation management.pdf](Research%20papers/Social%20Media%20Sentiment%20Analysis%20for%20Brand%20Reputation%20management.pdf)
+    * [📑 social-media-sentiment-analysis-for-brand-monitoring.pdf](Research%20papers/social-media-sentiment-analysis-for-brand-monitoring-IJERTV13IS100134.pdf)
 ---
 
 ### Installation & Usage
