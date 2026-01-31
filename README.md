@@ -2,7 +2,7 @@
 
 [![Watch the Demo](https://img.shields.io/badge/PLAY-DEMO_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white)](assets/els_pulse_ensemble_audit_full_demo.mp4)
 
-> **Tip:** Click the badge above to open and play the walkthrough video.
+> **Note:** Click the badge above to watch the full system diagnostic walkthrough.
 
 ## Project Overview
 **ELS-Pulse** is a professional-grade sentiment diagnostic terminal designed to bridge the gap between raw NLP models and executive-level brand intelligence. By leveraging a **Hybrid Ensemble Engine**, the system cross-validates social media data across multiple classifiers to ensure high-fidelity sentiment auditing. 
@@ -62,7 +62,7 @@ The repository is organized to support both real-time application development an
   ▶ [Click here to play the Demo Video](./assets/els_pulse_ensemble_audit_full_demo.mp4) and view diagnostic screenshots, neural heatmaps, ensemble audits, and performance visualizations.
 
 * **[Project development](./Project%20development/)**:  
-  Core application (`app.py`), development notebook (`sentiment_analysis.ipynb`), and evaluation dataset (`test.csv`).
+  Core application (`app.py`), development notebook (`sentiment analysis.ipynb`), and evaluation dataset (`test.csv`).
 
 * **[models](./Project%20development/models/)**:  
   Serialized `.pkl` files for Logistic Regression, Naive Bayes, SVM classifiers, ensemble voting model, TF-IDF vectorizer, and sarcasm keyword intelligence.
