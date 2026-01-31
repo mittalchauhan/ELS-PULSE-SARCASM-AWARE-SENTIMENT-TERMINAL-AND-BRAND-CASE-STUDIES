@@ -71,19 +71,30 @@ The system generates cross-validated analytics for global entities based on high
 ---
 
 ## Project Structure & Academic Foundation
-The repository is organized to support both real-time application and deep academic research:
+The repository is organized to support both real-time application development and deep academic research:
 
-* **[assets](assets/)**: [▶ Click here to play the Demo Video](assets/els_pulse_ensemble_audit_full_demo.mp4) and view diagnostic screenshots.
-* **[Project development](Project_development/)**: Core application (`app.py`), development notebook (`sentiment analysis.ipynb`), and training datasets.
-* **[models](Project_development/models/)**: Serialized `.pkl` files for all classifiers and the TF-IDF vectorizer.
-* **Project_Summary**: [SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf](./Project_Summary/SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf?raw=true)
-* **Research_thesis**: [PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf](./Research_thesis/PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf?raw=true)
-* **Research_papers (Academic Reference Library)**: 
-    * [Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf](./Research_papers/Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf?raw=true)
-    * [Comparative_Analysis_of_Machine_Learning.pdf](./Research_papers/Comparative_Analysis_of_Machine_Learning.pdf?raw=true)
-    * [Sentiment_analysis_and_social_media_analytics_in_brand_management.pdf](./Research_papers/Sentiment_analysis_and_social_media_analytics_in_brand_management_Techniques_Trends_and_Implications.pdf?raw=true)
-    * [Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf](./Research_papers/Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf?raw=true)
-    * [social_media_sentiment_analysis_for_brand_monitoring_IJERTV13IS100134.pdf](./Research_papers/social_media_sentiment_analysis_for_brand_monitoring_IJERTV13IS100134.pdf?raw=true)
+* **[assets](./assets/)**:  
+  ▶ [Click here to play the Demo Video](./assets/els_pulse_ensemble_audit_full_demo.mp4) and view diagnostic screenshots, neural heatmaps, ensemble audits, and performance visualizations.
+
+* **[Project development](./Project%20development/)**:  
+  Core application (`app.py`), development notebook (`sentiment_analysis.ipynb`), and evaluation datasets (`test.csv`).
+
+* **[models](./Project%20development/models/)**:  
+  Serialized `.pkl` files for Logistic Regression, Naive Bayes, SVM classifiers, ensemble voting model, TF-IDF vectorizer, and sarcasm keyword intelligence.
+
+* **Project_Summary**:  
+  [SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf](./Project_Summary/SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf?raw=true)
+
+* **Research_thesis**:  
+  [PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf](./Research_thesis/PROJECT_REPORT_SENTIMENT_ANALYSIS_FOR_BRAND_MONITORING_AND_COMPETITOR_ANALYSIS.pdf?raw=true)
+
+* **Research_papers (Academic Reference Library)**:  
+  - [Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf](./Research_papers/Artificial_Intelligence_and_Sentiment_Analysis_A_Review_in.pdf?raw=true)  
+  - [Comparative_Analysis_of_Machine_Learning.pdf](./Research_papers/Comparative_Analysis_of_Machine_Learning.pdf?raw=true)  
+  - [Sentiment_analysis_and_social_media_analytics_in_brand_management_Techniques_Trends_and_Implications.pdf](./Research_papers/Sentiment_analysis_and_social_media_analytics_in_brand_management_Techniques_Trends_and_Implications.pdf?raw=true)  
+  - [Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf](./Research_papers/Social_Media_Sentiment_Analysis_for_Brand_Reputation_management.pdf?raw=true)  
+  - [social_media_sentiment_analysis_for_brand_monitoring_IJERTV13IS100134.pdf](./Research_papers/social_media_sentiment_analysis_for_brand_monitoring_IJERTV13IS100134.pdf?raw=true)
+
 ---
 
 ## Installation & Usage
