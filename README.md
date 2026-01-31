@@ -1,4 +1,4 @@
-### **ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES**
+### **ELS-PULSE: SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES**⚡
 
 [![Watch the Demo](https://img.shields.io/badge/PLAY-DEMO_VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white)](assets/els_pulse_ensemble_audit_full_demo.mp4)
 
