@@ -71,7 +71,7 @@ The repository is organized to support both real-time application development an
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/els-pulse.git](https://github.com/your-username/els-pulse.git)
+    git clone [https://github.com/mittalchauhan/ELS-PULSE-SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES.git](https://github.com/mittalchauhan/ELS-PULSE-SARCASM-AWARE-SENTIMENT-TERMINAL-AND-BRAND-CASE-STUDIES.git)
     ```
 2.  **Install Dependencies:**
     ```bash
